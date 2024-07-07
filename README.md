@@ -18,6 +18,4 @@
 
 ![Sudhakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhakar2510&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sudhakar?theme=dark&font=McLaren&ext=heatmap)
-
 [![Sudhakar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudhakar2510&bg_color=080808&color=f3f2f3&line=f31212&point=f8f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
